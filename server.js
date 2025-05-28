@@ -8,7 +8,7 @@
 *
 * Name: Bruno Felipi de Souza Student ID: 132021239 Date: 2025-05-27
 *
-* Published URL: 
+* Published URL: https://assignment1-tau-woad.vercel.app/
 *
 ********************************************************************************/
 const express = require('express');
